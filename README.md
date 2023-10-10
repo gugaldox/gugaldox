@@ -13,7 +13,6 @@ Sou estudante de Sistemas de Informação na UFPE, apaixonado por tecnologia e d
   <a href="https://www.notion.so" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" title="Notion"></a>
 </p>
 </div>
-Agora você tem botões para GitHub, Git, PyCharm, VSCode e Notion. Certifique-se de substituir os URLs pelos seus reais.
 
 ## 📫 Conecte-se comigo
 
