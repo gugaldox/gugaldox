@@ -23,10 +23,12 @@ Estou sempre aprendendo e buscando aprimorar minhas habilidades em desenvolvimen
 
 <div>
 <p align="left">
+  <a href="https://wa.me/5581994221003"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp"></a>
   <a href="https://www.linkedin.com/in/aldo-lemos-ba3331254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" title="Linkedin"></a> 
   <a href="https://www.instagram.com/gugaldox"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
   <a href="https://spotify.link/kYqdHEZ4MDb"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" title="Spotify"></a>
 </p>
 </div>
+
 
 
