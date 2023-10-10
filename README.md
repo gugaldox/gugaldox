@@ -24,11 +24,5 @@ Estou sempre aprendendo e buscando aprimorar minhas habilidades em desenvolvimen
 <p align="left">
   <a href="https://www.linkedin.com/in/aldo-lemos-ba3331254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" title="Linkedin"></a> 
   <a href = "https://www.instagram.com/gugaldox"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
-  <a href = "[https://open.spotify.com/user/pdphnsmmmdrmavautzan3w8v8?si=80212bd3deb945ab](https://open.spotify.com/user/31gzbxyppnhmagr3stnpkue4pcu4?si=shRrT704Sm2z_IWbV85MeA&utm_source=whatsapp&utm_medium=whatsapp&nd=1&_branch_match_id=1240376006802073935&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1s%2BOLEzxcI0y8XVJAgABlg16IAAAAA%3D%3D)"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" title="Spotify"></a>
+  <a href = "[https://open.spotify.com/user/pdphnsmmmdrmavautzan3w8v8?si=80212bd3deb945ab]"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" title="Spotify"></a>
   
-
-</div>
-## 🛠️ Citação Favorita
-
-"Qualquer tecnologia suficientemente avançada é equivalente à mágica". — Arthur C. Clarke
-
