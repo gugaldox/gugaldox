@@ -1,6 +1,6 @@
 # Hello! I am Aldo (or [@gugaldox](https://github.com/gugaldox))! 👋
 
-I am a student pursuing a degree in Information Systems at UFPE, with a profound passion for technology and software development. At the age of 22, residing in Recife, I am constantly seeking to broaden my knowledge in the realm of programming.
+**I am a student pursuing a degree in Information Systems at UFPE, with a profound passion for technology and software development. At the age of 22, residing in Recife, I am constantly seeking to broaden my knowledge in the realm of programming.**
 
 ## 🔧 Tools
 
