@@ -3,6 +3,7 @@
 **I am a student pursuing a degree in Information Systems at UFPE, with a profound passion for technology and software development. At the age of 22, residing in Recife, I am constantly seeking to broaden my knowledge in the realm of programming.**
 
 ## 🔧 Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugaldox&theme=buefy&layout=compact)](https://github.com/gugaldox/github-readme-stats)
 
 <div>
 <p align="left">
